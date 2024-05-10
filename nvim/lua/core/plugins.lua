@@ -17,7 +17,7 @@ require("lazy").setup({
   'junegunn/fzf',
   'junegunn/fzf.vim',
   'voldikss/vim-floaterm',
-  'joshdick/onedark.vim',
+  'catppuccin/nvim',
   'hrsh7th/nvim-cmp',
   'hrsh7th/cmp-nvim-lsp',
   'L3MON4D3/LuaSnip',
@@ -26,4 +26,5 @@ require("lazy").setup({
   'neovim/nvim-lspconfig',
   'nvim-telescope/telescope.nvim',
   'nvim-lua/plenary.nvim',
+  'nvim-treesitter/nvim-treesitter'
   })
