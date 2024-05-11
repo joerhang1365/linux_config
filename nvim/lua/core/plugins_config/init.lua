@@ -1,6 +1,7 @@
 require("core.plugins_config.lualine")
 require("core.plugins_config.cmp")
 require("core.plugins_config.lsp")
+require("core.plugins_config.fzf-lua")
 require("core.plugins_config.telescope")
 require("core.plugins_config.treesitter")
 require("core.plugins_config.mason")

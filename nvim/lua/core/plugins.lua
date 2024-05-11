@@ -14,8 +14,7 @@ vim.opt.rtp:prepend(lazypath)
 require("lazy").setup({
   'wbthomason/packer.nvim',
   'nvim-lualine/lualine.nvim',
-  'junegunn/fzf',
-  'junegunn/fzf.vim',
+  'ibhagwan/fzf-lua',
   'voldikss/vim-floaterm',
   'catppuccin/nvim',
   'hrsh7th/nvim-cmp',
@@ -27,4 +26,4 @@ require("lazy").setup({
   'nvim-telescope/telescope.nvim',
   'nvim-lua/plenary.nvim',
   'nvim-treesitter/nvim-treesitter'
-  })
+})
